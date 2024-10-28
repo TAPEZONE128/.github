@@ -16,7 +16,6 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 
 - **Lecture Notes** for major subjects.
 - **Workshop Resources** from seminars and events attended outside the college.
-- **Study Guides** created based on academic and extra-curricular learning.
 - **Reference Materials** that aid in understanding complex topics.
 
 |  | Course Title | Links |
