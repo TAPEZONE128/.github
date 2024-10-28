@@ -18,12 +18,12 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 - **Workshop Resources** from seminars and events attended inside/outside the college. (course related)
 - **Event Participation Reports** summarizing insights and experiences from workshops and seminars.
 
-| Lecture Notes | Course Title | Links |
+| Yr | Lecture Notes | Course Title | 
 |---|-------------|-------|
-| CC103 | Intermediate Programming |  |
-| CC104 | Data Structure and Algorithm |  |
-| DS102 | Discrete Structure 2 |  |
-| DM101 | Organization and Management Concepts |  |
+| 2nd | [CC103](https://github.com/TAPEZONE128/intermediate-programming) | Intermediate Programming |  
+| 2nd | [CC104](https://github.com/TAPEZONE128/data-structure-and-algorithms) | Data Structure and Algorithm |  
+| 2nd | [DS102](https://github.com/TAPEZONE128/discrete-structures-ii) | Discrete Structure 2 |  
+| 2nd | [DM101](https://github.com/TAPEZONE128/organization-and-management-concepts) | Organization and Management Concepts |  
 
 | Workshop | Details | Links|
 |----------|---------|------|
