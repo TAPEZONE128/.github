@@ -1,4 +1,4 @@
-# <img src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/029/056/static/6fb1e9cf4258bc9e.png" length="50" width="50" /> : TAPEZONE128 
+# <img src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/029/056/original/6fb1e9cf4258bc9e.png" length="50" width="50" /> : TAPEZONE128 
 
 **Welcome to [TAPEZONE128](https://github.com/TAPEZONE128)** era – where every repository is meant for academic documentation only. <img src="https://c.tenor.com/Ez99PJpx8PwAAAAC/tenor.gif" width="95" length="25" />
 
@@ -15,8 +15,7 @@ This organization was created to focus solely on academic materials without mixi
 Each repository under TAPEZONE128 will be structured to reflect specific subjects or learning events. Documentation may include:
 
 - **Lecture Notes** for major subjects.
-- **Workshop Resources** from seminars and events attended outside the college.
-- **Reference Materials** that aid in understanding complex topics.
+- **Workshop Resources** from seminars and events attended inside/outside the college. (course related)
 - **Event Participation Reports** summarizing insights and experiences from workshops and seminars.
 
 | Lecture Notes | Course Title | Links |
@@ -32,7 +31,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 
 | Events | Details | Links |
 |----------|---------|-------|
-| Web Design Essentials |    | |
+| Web Design Essentials: HTML, CSS, and Flexbox Workshop |    | |
 | Defend Yourself: Cybersecurity Awareness |  | |
 
 ## How to Use <img src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/170/619/static/369c8d541ed279a6.png" length="25" width="25" />
