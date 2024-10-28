@@ -17,13 +17,23 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 - **Lecture Notes** for major subjects.
 - **Workshop Resources** from seminars and events attended outside the college.
 - **Reference Materials** that aid in understanding complex topics.
+- **Event Participation Reports** summarizing insights and experiences from workshops and seminars.
 
-|  | Course Title | Links |
+| Lecture Notes | Course Title | Links |
 |---|-------------|-------|
 | CC103 | Intermediate Programming |  |
 | CC104 | Data Structure and Algorithm |  |
 | DS102 | Discrete Structure 2 |  |
 | DM101 | Organization and Management Concepts |  |
+
+| Workshop | Details | Links|
+|----------|---------|------|
+| - | - | - |
+
+| Events | Details | Links |
+|----------|---------|-------|
+| Web Design Essentials |    | |
+| Defend Yourself: Cybersecurity Awareness |  | |
 
 ## How to Use <img src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/170/619/static/369c8d541ed279a6.png" length="25" width="25" />
 
