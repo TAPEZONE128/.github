@@ -31,8 +31,8 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 
 | Events | Details | Links |
 |----------|---------|-------|
-| Web Design Essentials: HTML, CSS, and Flexbox Workshop |    | |
-| Defend Yourself: Cybersecurity Awareness |  | |
+| Web Design Essentials: HTML, CSS, and Flexbox Workshop | Facilitated workshop as the speaker, covering CSS fundamentals, including styling techniques, layouts. Focused on practical demonstrations to enhance participants' web design skills. | |
+| Defend Yourself: Cybersecurity Awareness | Contributed as the speaker in an online community (Discord Server) dedicated to enhancing cybersecurity awareness. Participated in discussions and shared insights on risk mitigation strategies and best practices for online security. | |
 
 ## How to Use <img src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/170/619/static/369c8d541ed279a6.png" length="25" width="25" />
 
