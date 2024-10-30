@@ -16,7 +16,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 
 - **Lecture Notes** for major subjects.
 - **Extracurricular Resources** summarizing insights and experiences from workshops and seminars.
-- **Event Participation Reports** from seminars and events attended inside/outside the college. (course related)
+- **Event Participation** from seminars and events attended inside/outside the college. (course related)
 
 | Yr | Lecture Notes | Course Title | 
 |---|-------------|-------|
