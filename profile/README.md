@@ -15,8 +15,8 @@ This organization was created to focus solely on academic materials without mixi
 Each repository under TAPEZONE128 will be structured to reflect specific subjects or learning events. Documentation may include:
 
 - **Lecture Notes** for major subjects.
-- **Workshop Resources** from seminars and events attended inside/outside the college. (course related)
-- **Event Participation Reports** summarizing insights and experiences from workshops and seminars.
+- **Extracurricular Resources** summarizing insights and experiences from workshops and seminars.
+- **Event Participation Reports** from seminars and events attended inside/outside the college. (course related)
 
 | Yr | Lecture Notes | Course Title | 
 |---|-------------|-------|
@@ -25,14 +25,16 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | 2nd | [DS102](https://github.com/TAPEZONE128/discrete-structures-ii) | Discrete Structure 2 |  
 | 2nd | [DM101](https://github.com/TAPEZONE128/organization-and-management-concepts) | Organization and Management Concepts |  
 
-| Workshop | Details | Links|
-|----------|---------|------|
-| Zero Trust Security: The Future of Cyber Defense Webinar | The discussion highlighted Zero Trust’s continuous verification, AI’s role in threats, and emphasized balanced cybersecurity practices, proactive education, and workforce development. | - |
-
-| Events | Details | Links |
+| Training/Workshop/Seminar | Details | Links |
 |----------|---------|-------|
 | Web Design Essentials: HTML, CSS, and Flexbox Workshop | Facilitated workshop as the speaker, covering CSS fundamentals, including styling techniques, layouts. Focused on practical demonstrations to enhance participants' web design skills. | |
 | Defend Yourself: Cybersecurity Awareness | Contributed as the speaker in an online community (Discord Server) dedicated to enhancing cybersecurity awareness. Participated in discussions and shared insights on risk mitigation strategies and best practices for online security. | |
+
+| Events | Details | Links|
+|----------|---------|------|
+| Zero Trust Security: The Future of Cyber Defense Webinar | The discussion highlighted Zero Trust’s continuous verification, AI’s role in threats, and emphasized balanced cybersecurity practices, proactive education, and workforce development. | - |
+
+
 
 ## How to Use <img src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/170/619/static/369c8d541ed279a6.png" length="25" width="25" />
 
