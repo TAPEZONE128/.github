@@ -27,7 +27,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 
 | Workshop | Details | Links|
 |----------|---------|------|
-| - | - | - |
+| Zero Trust Security: The Future of Cyber Defense Webinar | The discussion highlighted Zero Trust’s continuous verification, AI’s role in threats, and emphasized balanced cybersecurity practices, proactive education, and workforce development. | - |
 
 | Events | Details | Links |
 |----------|---------|-------|
