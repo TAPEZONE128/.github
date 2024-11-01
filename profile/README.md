@@ -16,7 +16,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 
 - **Lecture Notes** for major subjects.
 - **Extracurricular Resources** summarizing insights and experiences from workshops and seminars.
-- **Event Participation** from seminars and events attended inside/outside the college. (course related)
+- [**Event Participation**](https://github.com/TAPEZONE128/event-participation/tree/main) from seminars and events attended inside/outside the college. (course related)
 
 | Yr | Lecture Notes | Course Title | 
 |---|-------------|-------|
@@ -30,9 +30,10 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | Web Design Essentials: HTML, CSS, and Flexbox Workshop | Facilitated workshop as the speaker, covering CSS fundamentals, including styling techniques, layouts. Focused on practical demonstrations to enhance participants' web design skills. | |
 | Defend Yourself: Cybersecurity Awareness | Contributed as the speaker in an online community (Discord Server) dedicated to enhancing cybersecurity awareness. Participated in discussions and shared insights on risk mitigation strategies and best practices for online security. | |
 
-| Events | Details | Links|
-|----------|---------|------|
-| Zero Trust Security: The Future of Cyber Defense Webinar | The discussion highlighted Zero Trust’s continuous verification, AI’s role in threats, and emphasized balanced cybersecurity practices, proactive education, and workforce development. | - |
+| Events | Details | 
+|----------|---------|
+| [Zero Trust Security: The Future of Cyber Defense Webinar](https://github.com/TAPEZONE128/event-participation/blob/main/Zero%20Trust%20Security%20-%20The%20Future%20Of%20Cyber%20Defense.pdf) | The discussion highlighted Zero Trust’s continuous verification, AI’s role in threats, and emphasized balanced cybersecurity practices, proactive education, and workforce development. |
+
 
 
 
