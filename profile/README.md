@@ -33,7 +33,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | Events | Details | 
 |----------|---------|
 | [Zero Trust Security: The Future of Cyber Defense Webinar](https://github.com/TAPEZONE128/event-participation/blob/main/Zero%20Trust%20Security%20-%20The%20Future%20Of%20Cyber%20Defense.pdf) | The discussion highlighted Zero Trust’s continuous verification, AI’s role in threats, and emphasized balanced cybersecurity practices, proactive education, and workforce development. |
-| [Fall Cyber Solutions Fest 2024: SOC & SOAR Track](https://www.sans.org/webcasts/Fall-Cyber-Solutions-Fest-2024-SOC-SOAR-Track/?utm_medium=Email&utm_source=HL-Webcast&utm_content=1386008_SANS_Upcoming_Webcast_Sept_09_2024_SOC_SOAR_Track_text&utm_campaign=SANS_Upcoming_Webcas&utm_rdetail=NA&utm_goal=Leads&utm_type=Sponsorship&is=4344bb92b05343da30d16145bb4234fb645086dfa8b271e8c76456752f621bed) | - |
+| [Fall Cyber Solutions Fest 2024: Emerging Technologies Track](https://www.sans.org/webcasts/Fall-Cyber-Solutions-Fest-2024-Emerging-Technologies-Track/) | - |
 
 
 
