@@ -35,6 +35,8 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | [Advanced Python Techniques for Security Automation](https://www.sans.org/webcasts/advanced-python-techniques-for-security-automation-oct-24/) | - |
 | [Zero Trust Security: The Future of Cyber Defense Webinar](https://github.com/TAPEZONE128/event-participation/blob/main/Zero%20Trust%20Security%20-%20The%20Future%20Of%20Cyber%20Defense.pdf) | The discussion highlighted Zero Trust’s continuous verification, AI’s role in threats, and emphasized balanced cybersecurity practices, proactive education, and workforce development. |
 | [Fall Cyber Solutions Fest 2024: Emerging Technologies Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/Emerging%20Technologies%20Track) | - |
+| [Fall Cyber Solutions Fest 2024: SOC/SOAR Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/SOC-SOAR%20Track) | - |
+| [Fall Cyber Solutions Fest 2024: Detection & Response Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/Detection%20%26%20Response%20Track) | - |
 
 
 
