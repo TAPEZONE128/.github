@@ -40,7 +40,14 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | [Fall Cyber Solutions Fest 2024: Detection & Response Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/Detection%20%26%20Response%20Track) | - |
 
 | Other Units | Course Title |
-| - | - |
+|-------------|-------------|
+| ITC593 | Network Security & Cryptography |
+| ITE533 | Cybersecurity Management |
+| ITC597 | Digital Forensics |
+| ITE535 | Penetration Testing |
+| ITE590 | Cyber Threat Intelligence |
+| ITE516 | Hacking Countermeasures |
+
 
 
 
