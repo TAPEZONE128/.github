@@ -17,6 +17,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 - **Lecture Notes** for major subjects.
 - **Extracurricular Resources** summarizing insights and experiences from workshops and seminars.
 - [**Event Participation**](https://github.com/TAPEZONE128/event-participation/tree/main) from seminars and events attended inside/outside the college. (course related)
+- **Other** units taken outside of the campus.
 
 | Yr | Lecture Notes | Course Title | 
 |---|-------------|-------|
@@ -37,6 +38,9 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | [Fall Cyber Solutions Fest 2024: Emerging Technologies Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/Emerging%20Technologies%20Track) | - |
 | [Fall Cyber Solutions Fest 2024: SOC/SOAR Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/SOC-SOAR%20Track) | - |
 | [Fall Cyber Solutions Fest 2024: Detection & Response Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/Detection%20%26%20Response%20Track) | - |
+
+| Other Units | Course Title |
+| - | - |
 
 
 
