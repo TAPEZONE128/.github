@@ -49,10 +49,10 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | ITE535 | Penetration Testing |
 | ITE590 | Cyber Threat Intelligence |
 | ITE516 | Hacking Countermeasures |
+| ITE531 | Architecting Cloud Solutions |
+| ITE513 | Forensic Investigation |
 
-
-
-
+> these units are taken for exam prep
 
 
 ## How to Use <img src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/170/619/static/369c8d541ed279a6.png" length="25" width="25" />
