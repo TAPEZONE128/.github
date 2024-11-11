@@ -18,6 +18,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 - **Extracurricular Resources** summarizing insights and experiences from workshops and seminars.
 - [**Event Participation**](https://github.com/TAPEZONE128/event-participation/tree/main) from seminars and events attended inside/outside the college. (course related)
 - **Other** units taken outside of the campus.
+- [**Internships**](https://github.com/TAPEZONE128/internships-files) cache files
 
 | Yr | Lecture Notes | Course Title | 
 |---|-------------|-------|
