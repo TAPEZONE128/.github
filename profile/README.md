@@ -41,6 +41,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | [Fall Cyber Solutions Fest 2024: Detection & Response Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/Detection%20%26%20Response%20Track) | - |
 | [Fall Cyber Solutions Fest 2024: Zero Trust Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/Zero%20Trust%20Track) | - |
 | [Fall Cyber Solutions Fest 2024: Threat Hunting and Intelligence Track](https://github.com/TAPEZONE128/event-participation/tree/main/SANS%20Fall%20Cyber%20Solutions%20Fest%202024/Threat%20Hunting%20and%20Intelligence%20Track) | - |
+| [XDR + AI + Purple Teaming: The ingredients for stopping Cyber Threats?](https://info.integrity360.com/integrity360-xdr-webinar-on-demand)
 | [Cloud DevSecOps Workshop with HCP Terraform, Prisma Cloud, and AWS](https://github.com/TAPEZONE128/prisma-cloud-devsecops-workshop) | - |
 | [CNAPP CTF](https://prismacloud3.ctfd.io/) | - |
 
