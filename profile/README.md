@@ -15,7 +15,7 @@ This organization was created to focus solely on academic materials without mixi
 Each repository under TAPEZONE128 will be structured to reflect specific subjects or learning events. Documentation may include:
 
 - **Lecture Notes** for major subjects.
-- **Extracurricular Resources** summarizing insights and experiences from workshops and seminars.
+- [**Extracurricular Resources**](https://github.com/TAPEZONE128/xtra-reso) summarizing insights and experiences from workshops and seminars.
 - [**Event Participation**](https://github.com/TAPEZONE128/event-participation/tree/main) from seminars and events attended inside/outside the college. (course related)
 - **Other** units taken outside of the campus.
 - [**Internships**](https://github.com/TAPEZONE128/internships-files) cache files
