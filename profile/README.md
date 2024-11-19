@@ -44,6 +44,7 @@ Each repository under TAPEZONE128 will be structured to reflect specific subject
 | [XDR + AI + Purple Teaming: The ingredients for stopping Cyber Threats?](https://info.integrity360.com/integrity360-xdr-webinar-on-demand) | discusses how XDR can enhance threat detection and response capabilities, offering insights into preventing breaches by combining proactive and reactive approaches. |
 | [Cloud DevSecOps Workshop with HCP Terraform, Prisma Cloud, and AWS](https://github.com/TAPEZONE128/prisma-cloud-devsecops-workshop) | focuses on integrating security scanning into the development pipeline using Checkov to identify and remediate infrastructure as code vulnerabilities across cloud environments. |
 | [CNAPP CTF](https://prismacloud3.ctfd.io/) | focused on cloud security, where participants solve challenges related to securing cloud environments, including topics like cloud infrastructure, data protection, and access control. |
+| [FORENSICS@NIST 2024](https://www.nist.gov/news-events/events/2024/11/forensicsnist-2024) | - |
 
 | Other Units | Course Title |
 |-------------|-------------|
